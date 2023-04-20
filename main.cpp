@@ -17,9 +17,5 @@ char lista_nomi[3][5] = {"", "", ""};
  else if((nome[0]==lista_nomi[2][0])&&(nome[1]==lista_nomi[2][1])&&(nome[2]==lista_nomi[2][2])&&(nome[3]==lista_nomi[2][3])){
      cout<<"2"<<endl;
  }
-else{
-    cout<<""<<endl;
-}
-
    return 0;
 }
